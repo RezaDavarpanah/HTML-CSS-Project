@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'opensans';
+    src: url('CSS/fonts/opensans-bold-webfont.woff2') format('woff2'),
+         url('opensans-bold-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: bold;
+
+}
+
+
+
+@font-face {
+    font-family: 'opensans';
+    src: url('CSS/fonts/opensans-regular-webfont.woff2') format('woff2'),
+         url('opensans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body {
+
+    margin: 10px;
+    font-family: "Open Sans" Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+h1{
+    margin: 3rem 0 1rem;
+    font-family: "opensans" Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+}
+
+p{
+    font-size: 1rem;
+    font-style: normal;
+    color: #333;
+    width: 50ch;
+    text-align: left;
+    text-indent: 1rem;
+    text-decoration: underline;
+    text-transform: capitalize;
+    column-count: 2;
+    column-gap: 1rem;
+    column-rule: 3px dotted #999;
+}
+
+@media screen and (min-width:400px) {
+    html{
+        font-size:130%;
+    }
+}

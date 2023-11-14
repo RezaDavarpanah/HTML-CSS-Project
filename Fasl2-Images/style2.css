@@ -1,0 +1,35 @@
+.-bgufo
+{
+background:url('../Fasl2-Images/images/css-sprite-combined.png') 0px -0px;
+width:100px;height:100px;
+display:inline-block;
+}
+
+.-bgdishes
+{
+background:url('../Fasl2-Images/images/css-sprite-combined.png') -100px -0px;
+width:100px;height:100px;
+display:inline-block;
+}
+
+.-bglanding
+{
+background:url('../Fasl2-Images/images/css-sprite-combined.png') -200px -0px;
+width:100px;height:100px;
+display:inline-block;
+}
+
+.-bgrocketship
+{
+background:url('../Fasl2-Images/images/css-sprite-combined.png') -300px -0px;
+width:100px;height:100px;
+display:inline-block;
+}
+
+.-bgsaturn
+{
+background:url('../Fasl2-Images/images/css-sprite-combined.png') -400px -0px;
+width:100px;height:100px;
+display:inline-block;
+}
+

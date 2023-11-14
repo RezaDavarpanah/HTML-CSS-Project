@@ -1,0 +1,23 @@
+html{
+    font-size: 62.5%;
+}
+
+body{
+
+}
+.box{
+    width: 50vw;
+    height: 100vh;
+    background-color: green;
+    border-top: 3px solid gold;
+}
+
+/*
+.box{
+    font-size: 20px;
+    width: 15rem;
+    height: 100vh;
+    background-color: green;
+    border-top: 3px solid gold;
+}
+/*

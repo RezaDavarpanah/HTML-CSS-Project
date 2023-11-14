@@ -1,0 +1,30 @@
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(230, 205, 16);
+    background-color: rgba(230, 205, 16, 0.5);
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    background: linear-gradient(blue,green);
+    background: linear-gradient(to right,blue,green);
+    background: linear-gradientto(to bottom right,blue,green);
+    background: linear-gradient(blue,green, tomato);
+
+    border: 10px solid royalblue;
+    border-top(right-bottom-left): 20px, solid green;
+    border-width:10px 20px 10px 20px;
+    border-style
+    border-color
+    border-radius
+
+    box-shadow: 0 0 20px grey;
+     h1 {
+        color:white;
+        text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+     }
+
+}
+
